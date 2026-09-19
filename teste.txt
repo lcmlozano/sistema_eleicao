@@ -1,2 +1,3 @@
 criação do arquivo teste.txt
 testando com a turma 6P
+testando com a turma 6N
